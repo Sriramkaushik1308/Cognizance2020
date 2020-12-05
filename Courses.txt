@@ -28,5 +28,11 @@ have to try rebase , fork
 =======
 fork is jus remaining 
 trying to rebase
+<<<<<<< HEAD
 >>>>>>> a09244b (Commiting new one)
 
+=======
+stuck at rebase 
+going for it
+ 
+>>>>>>> 277e3b0 (for rebasing)
