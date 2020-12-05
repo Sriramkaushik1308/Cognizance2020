@@ -10,6 +10,7 @@ calculus
 Matrix algebra
 technical communication
 <<<<<<< HEAD
+<<<<<<< HEAD
 task 5
 =======
 command edit is pending 
@@ -24,4 +25,8 @@ fetch done
 reset have small confusion
 have to try rebase , fork
 >>>>>>> 8d5815ec3cdf9772e5d07840af0185c37fa24f44
+=======
+fork is jus remaining 
+trying to rebase
+>>>>>>> a09244b (Commiting new one)
 
