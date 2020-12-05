@@ -9,6 +9,13 @@ Computer essentials
 calculus
 Matrix algebra
 technical communication
+<<<<<<< HEAD
 task 5
+=======
+command edit is pending 
+rebase , fetch, pull , fork also pending
+reset is little confusing 
+fetch done but not displaying ig
+rebase ,fork ,pull, also reset pending
+>>>>>>> bce56a4bf11f5056c9920b302c661518b2ff8d17
 
- 
