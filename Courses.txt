@@ -26,4 +26,6 @@ have to try rebase , fork
 >>>>>>> 8d5815ec3cdf9772e5d07840af0185c37fa24f44
 doubt in rebase 
 going to do reset
+trying pull
+fork is remaing and have doubt on rebase 
 
