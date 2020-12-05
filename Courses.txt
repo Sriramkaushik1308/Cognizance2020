@@ -9,5 +9,6 @@ Computer essentials
 calculus
 Matrix algebra
 technical communication
-
+command edit is pending 
+rebase , fetch, pull , fork also pending
  
