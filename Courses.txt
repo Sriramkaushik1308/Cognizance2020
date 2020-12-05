@@ -11,4 +11,7 @@ Matrix algebra
 technical communication
 command edit is pending 
 rebase , fetch, pull , fork also pending
- 
+reset is little confusing 
+fetch done but not displaying ig
+rebase ,fork ,pull, also reset pending
+
