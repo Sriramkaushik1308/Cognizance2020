@@ -8,5 +8,6 @@ PSAT
 Computer essentials 
 calculus
 Matrix algebra
+technical communication
 
  
