@@ -14,4 +14,7 @@ rebase , fetch, pull , fork also pending
 reset is little confusing 
 fetch done but not displaying ig
 rebase ,fork ,pull, also reset pending
+fetch done
+reset have small confusion
+have to try rebase , fork
 
