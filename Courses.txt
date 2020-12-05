@@ -28,4 +28,5 @@ doubt in rebase
 going to do reset
 trying pull
 fork is remaing and have doubt on rebase 
+completed..
 
