@@ -20,7 +20,7 @@
  
  ```Just dive into it...```
 
-```U may ask , what are the advantages of this code , when we can see it by ourseves ??```
+```U may ask , what are the advantages of this code , when we can see it by ourselves ??```
  ```there are advantages ```
 
 * ```It can do it faster than us ```
