@@ -52,7 +52,7 @@ Start
    __OUTPUT__        ' not a Armstrong number '
 
   End   
- ![Armstrong no.](Screenshot (70).png)
+ ![Armstrong no.](Flow.armstrong.png)
  
 
     
