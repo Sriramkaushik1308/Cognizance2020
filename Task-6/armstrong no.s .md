@@ -7,30 +7,49 @@
 
 Start
 
-* __Declare__ 
+* __DECLARE__ 
 
-    * *number* as integer
-    * *num* as integer
-    * *sum* as integer
-    * *digit* as integer
-* Use *number* to get __input__ from the user
-* __Assign__ 
+     *number* as integer
 
-    * *num* = *number*
-    * *sum* = 0
-* Create a __while loop__ for the condition __*number* > 0__
-* Inside the while loop , 
+     *num* as integer
+
+     *sum* as integer
+
+     *digit* as integer
+
+ * __OUTPUT__  ' What's the number '  
+
+ * __INPUT__  user inputs the number
+
+ * __ASSIGN__ 
+
+      *num* = *number*
+
+      *sum* = 0
+
+
         
-    * if the __while__ condition is true , then Assign
+ * __WHILE__    *number* > 0 ,
 
-       *  *digit* = *number* % 10
-       *  *sum* = *sum* + (*digit*)^3 
-       *  *number* = *number*/10
+      *digit* = *number* % 10
 
-    * if the __while__ condition is false , 
-      
-      * if *sum* == *num* is *true* , then give the number is __a Armstrong number__ as  __output__
-      * if *sum* == *num* is *false* , then give the number is __not a Armstrong number__ as __output__
+      *sum* = *sum* + (*digit*)^3
+
+      *number* = *number*/10
+
+  * __UNTIL__    *number* <= 0  
+  
+    * __END WHILE__  
+
+ * __IF__   *sum* == *num* , THEN 
+
+
+ *   __OUTPUT__        ' a Armstrong number '
+
+*  __ELSE__
+
+
+   __OUTPUT__        ' not a Armstrong number '
 
   End   
 
