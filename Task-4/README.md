@@ -20,7 +20,11 @@
  
  ```Just dive into it...```
 
+<<<<<<< HEAD
 ```U may ask , what are the advantages of this code , when we can see it by ourseves ??```
+=======
+```U may ask , what are the advantages of this code , when we can see it by ourselves ??```
+>>>>>>> b912b58a8c395f0dce28163516aaeeeaca6772fa
  ```there are advantages ```
 
 * ```It can do it faster than us ```
