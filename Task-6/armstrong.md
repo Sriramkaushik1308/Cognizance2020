@@ -52,7 +52,8 @@ Start
    __OUTPUT__        ' not a Armstrong number '
 
   End   
-
+ ![Armstrong no.](Flow.armstrong)
+ 
 
     
 
